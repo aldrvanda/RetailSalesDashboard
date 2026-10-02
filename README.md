@@ -95,7 +95,3 @@ Dataset yang digunakan adalah **Supermarket Sales**, berisi data transaksi dari 
 - **Microsoft Excel** — penyimpanan dan pengecekan data
 
 ---
-
-## 👤 Author
-
-**aldrvanda** — [GitHub](https://github.com/aldrvanda)
